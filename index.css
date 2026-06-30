@@ -2,8 +2,8 @@
 :root {
   --primary-color: #4f46e5;
   --primary-hover: #4338ca;
-  --bg-gradient-start: #f8fafc;
   --bg-gradient-end: #e2e8f0;
+  --bg-gradient-start: #f8fafc;
   --card-bg: #ffffff;
   --text-main: #1e293b;
   --text-muted: #64748b;
